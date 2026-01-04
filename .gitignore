@@ -1,0 +1,57 @@
+# -----------------------------
+# Build directories
+# -----------------------------
+build/
+build*/        # build, build-debug, build-release, etc.
+out/
+bin/
+obj/
+
+# Visual Studio build output
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+*.cmake
+Makefile
+
+# Ninja build files
+.ninja_deps
+.ninja_log
+rules.ninja
+build.ninja
+
+# VSCode settings
+.vscode/
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# LVGL auto-generated files (rare but safe)
+lvgl/lv_conf_internal.h
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
